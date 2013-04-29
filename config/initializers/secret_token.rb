@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-TagWithDesc::Application.config.secret_key_base = '859b892ed1169c5c69e8ad2c3f553ab421ce9440b0a50124e8d3ed238766a82bf76671f0d52526edd75556ddb8af8c89516ae950fa19c06cf27a77d17e36e925'
+TagWithDesc::Application.config.secret_key_base = 'd08702302a33befe8db7300299064f84b63bc5866f888b789816ba9029c68fb5aef8812ccfbbe5e0d79cfdc57d808116271c248dcd51ec8c08107a7a8a6b4f56'
